@@ -37,25 +37,25 @@ export const robots = [
     },
     {
       id: 7,
-      name: 'Kurtis Weissnat',
+      name: 'Frozen Weissnat 🥶',
       username: 'Elwyn.Skiles',
       email: 'Telly.Hoeger@billy.biz'
     },
     {
       id: 8,
-      name: 'Nicholas Runolfsdottir V',
+      name: 'Atracador Runolfsdottir V',
       username: 'Maxime_Nienow',
       email: 'Sherwood@rosamond.me'
     },
     {
       id: 9,
-      name: 'Glenna Reichert',
+      name: 'Profeta Reichert',
       username: 'Delphine',
       email: 'Chaim_McDermott@dana.io'
     },
     {
       id: 10,
-      name: 'Clementina DuBuque',
+      name: 'El Papa Stanton',
       username: 'Moriah.Stanton',
       email: 'Rey.Padberg@karina.biz'
     },
@@ -67,9 +67,9 @@ export const robots = [
     },
     {
       id: 12,
-      name: 'Leslie Rych',
-      username: 'le.kai',
-      email: 'as.srych@soul.biz'
+      name: 'Don Rastrero',
+      username: 'abdul',
+      email: 'rastrero@soul.biz'
     }
   ];
   
