@@ -4,7 +4,6 @@ import './index.css';
 import './App.css'
 import 'tachyons';
 import App from './App';
-//import reportWebVitals from './reportWebVitals';
 
 ReactDOM.render(<App />,
   document.getElementById('root')
